@@ -6,13 +6,16 @@
 - chiedere all'utente l'etá
   - creare variabile eta
   - prompt dove si chiderá l'etá
+- creare variabile sconto e prezzoScontato
 - calcolcare il prezzo totale del viaggio 
   - 1km costo 0,21 
     - creare variabile const km 
-  - sconto 20% per i minorenni
-    - creare variabile scontoMinorenni
-    - calcolare lo sconto
-  - sconto 40% per gli over 65
-    - creare variabile scontoOver
-    - calcolare lo sconto
+  - creare variabile prezzo base
+    - calcolare il prezzo base
+  - Se l'utente ha meno di 18 anni
+    - calcolare lo sconto del 20%
+  - ALTRIMENTI SE ha piú di 65 anni
+    - calcolare lo scotno del 40%
+  - ALTRIMENTI
+    - page il prezzo intero
 - prezzo in forma decimale 
