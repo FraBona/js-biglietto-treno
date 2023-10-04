@@ -14,8 +14,10 @@
     - calcolare il prezzo base
   - Se l'utente ha meno di 18 anni
     - calcolare lo sconto del 20%
+    - prezzo in forma decimale 
   - ALTRIMENTI SE ha piú di 65 anni
     - calcolare lo scotno del 40%
+    - prezzo in forma decimale 
   - ALTRIMENTI
     - page il prezzo intero
-- prezzo in forma decimale 
+    - prezzo in forma decimale 
